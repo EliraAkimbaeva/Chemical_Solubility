@@ -1,5 +1,4 @@
-# Machine Learning Project
+# Machine Learning Project for Linear regression model
 
-Here is my first ML project.
-
+This project is based on delaney solubility dataset. 
 
