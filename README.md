@@ -10,7 +10,7 @@ Such as:
 - Classification
 - Neural Networks
 
-Per each project you can find a folder with both dataset and code files, as csv and ipynb respectively. 
+Per each project you can find a folder with both dataset file and code file, as csv and ipynb respectively. 
 
 
 
