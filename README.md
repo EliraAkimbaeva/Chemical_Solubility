@@ -1,16 +1,5 @@
 # Supervised Learning projects
 
-This repository contains the projects with Supervised Machine learning models
-
-Such as: 
-- Linear Regression
-- Logistic Regression 
-- Naive Bayes
-- Random Forest 
-- Classification
-- Neural Networks
-
-Per each project you can find a folder with both dataset file and code file, as csv and ipynb respectively. 
 
 
 
