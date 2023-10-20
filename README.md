@@ -1,4 +1,4 @@
-# Supervised Learning projects
+# Molecules(chemicals) Solubility project
 
 
 
